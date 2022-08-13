@@ -1,16 +1,26 @@
-### Hi there 👋
+## About me 🔰
 
-<!--
-**SARKOT07/SARKOT07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is franco Gavidia alias Sarkot27 ⚡
+####  I am studying the nineth semester of computer engineer at the catholic university 📚
+#### Developer 🔑
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Universitary experience 📑
+#### Cotizador - Java program 💸
+**Program built in java, Where web pages are quoted for the company Oko_Tecnologia.**
+#### A Lost Soul - VideoGame 🕹️
+**Videogame built on the Unity graphics engine under the C# language, for the software engineering matter.**
+#### UCABMART - Website 💻
+**Web page built in CakePHP, using a relational database with MySql, for the databaseI matter**
+
+## Skills 🗂️
+**- MySQL**
+**- PostgreSQL**
+**- SQLite**
+**- TypeScript**
+**- NestJS**
+**- Flutter**
+**- Dart**
+**- NodeJS**
+**- Java**
+**- Git**
