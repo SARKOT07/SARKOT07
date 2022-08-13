@@ -7,11 +7,11 @@
 
 ## Universitary experience 📑
 #### Cotizador - Java program 💸
-**Program built in java, Where web pages are quoted for the company Oko_Tecnologia.**
+``Program built in java, Where web pages are quoted for the company Oko_Tecnologia.``
 #### A Lost Soul - VideoGame 🕹️
-**Videogame built on the Unity graphics engine under the C# language, for the software engineering matter.**
+``Videogame built on the Unity graphics engine under the C# language, for the software engineering matter.``
 #### UCABMART - Website 💻
-**Web page built in CakePHP, using a relational database with MySql, for the databaseI matter**
+``Web page built in CakePHP, using a relational database with MySql, for the databaseI matter``
 
 ## Skills 🗂️
 **- MySQL**
