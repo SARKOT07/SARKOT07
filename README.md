@@ -19,6 +19,7 @@
 **- SQLite**
 **- TypeScript**
 **- NestJS**
+**- AngularJS**
 **- Flutter**
 **- Dart**
 **- NodeJS**
