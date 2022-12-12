@@ -32,4 +32,3 @@
 - Franco Gavidia (Sarkot27) 🖲️
 - Caracas, Venezuela 📌
 - francogavidia027@gmail.com 📧
-- +58-414-015-7151 📞
