@@ -1,7 +1,7 @@
 ## About me 🔰
 
-#### My name is franco Gavidia alias Sarkot27 ⚡
-####  I am studying the nineth semester of computer engineer at the catholic university 📚
+#### My name is Franco Gavidia alias Sarkot27 ⚡
+####  I am studying  in the tenth semester of computer engineer at the catholic university 📚
 #### Developer 🔑
 
 
@@ -19,9 +19,7 @@
 **- SQLite**
 **- TypeScript**
 **- NestJS**
-**- AngularJS**
-**- Flutter**
-**- Dart**
+**- Angular**
 **- NodeJS**
 **- Java**
 **- Git**
