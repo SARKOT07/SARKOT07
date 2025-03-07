@@ -1,7 +1,7 @@
 ## About me 🔰
 
 #### My name is Franco Gavidia alias Sarkot27 ⚡
-####  I am studying  in the tenth semester of computer engineer at the catholic university 📚
+#### I am doing my undergraduate work in computer engineering at catholic university 📚
 #### Developer 🔑
 
 
